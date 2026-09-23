@@ -1,0 +1,67 @@
+header {
+    background-color: rgb(0, 150, 255);
+    padding: 1em;
+}
+
+footer {
+    background-color: rgb(0, 150, 255);
+    padding: 1em;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead, th, td {
+    border: 1px solid #000;
+    padding: 0.5em;
+    text-align: center;
+}
+
+tbody {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.fdh {
+    background-color: orange;
+}
+
+.ipe {
+    background-color: yellow;
+}
+
+.bbdd {
+    background-color: cyan;
+}
+
+.ios {
+    background-color: blueviolet;
+}
+
+.redes {
+    background-color: lightcoral;
+}
+
+.llmm {
+    background-color: pink;
+}
+
+.eng {
+    background-color: magenta;
+}
+
+.digi {
+    background-color: blue;
+}
+
+.sos {
+    background-color: lightgreen;
+}
+
+.pima{
+    background-color: lightblue;
+}
